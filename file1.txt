@@ -1,6 +1,4 @@
 Hello efe1
-<<<<<<< HEAD
 from user1
-=======
 from user2
->>>>>>> 862eeee598e57aefb725aeb57bf12c1896db4155
+
