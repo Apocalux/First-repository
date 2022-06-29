@@ -1,2 +1,6 @@
 Bye Bye 
+<<<<<<< HEAD
 critical bug fixed
+=======
+line from user2 - rebase
+>>>>>>> 98f0198edba929db289553ad939189ad6eb0b7bc
