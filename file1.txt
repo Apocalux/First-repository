@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello 
 Good evening! (brom branch master)
 some new feature

@@ -1,4 +1,3 @@
 Bye Bye 
-<<<<<<< HEAD
-critical bug fixed
+
 
